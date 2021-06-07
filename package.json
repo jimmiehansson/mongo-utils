@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "#"
+    "url": "git+https://github.com/jimmiehansson/mongo-utils.git"
   },
   "keywords": [
     "MongoDB"
   ],
-  "author": "#",
-  "license": "#",
+  "author": "Jimmie Hansson",
+  "license": "ISC",
   "bugs": {
-    "url": "#issues"
+    "url": "https://github.com/jimmiehansson/mongo-utils#issues"
   },
-  "homepage": "#readme",
+  "homepage": "https://github.com/jimmiehansson/mongo-utils#readme",
   "devDependencies": {
     "eslint": "^7.17.0",
     "eslint-config-airbnb": "^18.2.1",
